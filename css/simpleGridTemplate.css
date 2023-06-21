@@ -103,7 +103,7 @@ header {
 	text-align: center;
 }
 .intro .column p {
-	color:yellow;
+	color:#95372d;
 	font-weight:bold;
 }
 .cards {
@@ -123,7 +123,7 @@ header {
 	margin-right: 20px;
 	width: 80%;
 	margin-top: 4%;
-	color:yellow;
+	color:#95372d;
 	font-weight:bold;
 }
 .button {
@@ -205,7 +205,7 @@ footer {
 .intro .column p {
 	width: 100%;
 	margin-left: 0px;
-	color:yellow;
+	color:#95372d;
 	font-weight:bold;
 }
 .text_column {
@@ -269,7 +269,7 @@ footer {
 	width: 90%;
 	text-align: center;
 	padding-left: 0px;
-	color:yellow;
+	color:#95372d;
 	font-weight:bold;
 }
 }
@@ -290,6 +290,6 @@ footer {
 .intro .column p {
 	width: 80%;
 	font-weight:bold;
-	color:yellow;
+	color:#95372d;
 }
 }
