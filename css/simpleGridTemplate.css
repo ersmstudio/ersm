@@ -93,7 +93,7 @@ header {
 	width:100%;
 }
 .column {
-	width: 50%;
+	width: 100%;
 	text-align: center;
 	padding-top: 30px;
 	float: left;
@@ -114,12 +114,12 @@ header {
 	opacity: 0.8;
 }
 .intro .column p {
-	padding-left: 20%;
+	padding-left: 0%;
 	/* padding-right: 30px; */
 	text-align: justify;
 	line-height: 25px;
 	font-weight: lighter;
-	margin-left: 20%;
+	margin-left: 10%;
 	/* margin-right: 20px; */
 	width: 80%;
 	margin-top: 4%;
@@ -172,7 +172,7 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-image: url("../images/banar.jpg");
+	background-image: url("../images/bkg_06.jpg");
 	background-size:100% 100% ;
 }
 .profile {
