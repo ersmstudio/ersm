@@ -22,14 +22,14 @@ header {
 
 .logo{
     text-decoration: none;
-    color: #3a6cf4;
+    color: #d8b34d;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
 }
 
 .navigation a{
-    color: #3a6cf4;
+    color: #d8b34d;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
@@ -37,7 +37,7 @@ header {
 }
 
 .navigation a:hover{
-    color: #601cfc;
+    color: #5c4a1a;
 }
 
 section {
@@ -64,7 +64,7 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4e9eff;
+    color: #d8b34d;
     font-size: 3em;
     font-weight: 600;
 }
@@ -80,7 +80,7 @@ section {
 
 .main-btn {
     color: #fff;
-    background-color: #3a6cf4;
+    background-color: #d8b34d;
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
@@ -93,7 +93,7 @@ section {
 }
 
 .main-btn:hover {
-    background-color: #0a49f6;
+    background-color: #d8b34d;
     transform: scale(1.1);
 }
 
@@ -106,7 +106,7 @@ section {
 .title {
     display: flex;
     justify-content: center;
-    color: #3a6cf4;
+    color: #d8b34d;
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 30px;
@@ -134,7 +134,7 @@ section {
 }
 
 .card .icon {
-    color: #3a6cf4;
+    color: #d8b34d;
     font-size: 8em;
     text-align: center;
 }
@@ -144,7 +144,7 @@ section {
 }
 
 .info h3{
-    color: #3a6cf4;
+    color: #d8b34d;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
@@ -200,11 +200,11 @@ section {
 
 .more-details {
     text-decoration: none;
-    color: #3a6cf4;
+    color: #d8b34d;
 }
 
 .more-details:hover {
-    color: #601cfc;
+    color: rgb(117, 107, 19)
 }
 
 .contact .icon{
@@ -233,7 +233,7 @@ section {
 }
 
 .footer-title span {
-    color: #3a6cf4;
+    color: #614f1e;
 }
 
 .footer .social-icons a{
